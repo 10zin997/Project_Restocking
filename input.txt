@@ -1,0 +1,19 @@
+3.00 10.00 25.75
+s 23 14 1 New York
+s 25 25 25 Miami
+s 40 13 17 Los Angeles
+s 100 30 10 Houston
+s 42 23 17 Chicago
+s 0 0 15 New York
+s 13 17 21 Miami
+o 15 10 15 Los Angeles
+o 12 24 8 New York
+o 75 45 10 Houston
+o 20 15 15 Chicago
+o 15 0 0 New York
+s 10 20 10 Los Angeles
+s 0 30 40 Houston
+o 15 15 25 New York
+o 75 30 40 Chicago
+s 20 15 20 New York
+o 10 20 10 Houston
