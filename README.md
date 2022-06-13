@@ -1,5 +1,10 @@
 # Restocking-Shipping
 
+### Project 2
+### Restocking item that are out of stock
+### Computing shipping cost
+
+
 This program assumes that a company has warehouses in 5 cities: New York,
 Los Angeles, Miami, Houston, and Chicago. In each warehouse the company stocks three
 items. A record contains the amount of each item currently in each warehouse.
