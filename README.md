@@ -1,6 +1,5 @@
-# Restocking-Shipping
-
-### Project 2
+# DATA Structure Project 2
+## Restocking-Shipping
 ### Restocking item that are out of stock
 ### Computing shipping cost
 
